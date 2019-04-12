@@ -3,5 +3,5 @@ Performing Edge Detection and Keypoint Detection using own convolution code. Per
 
 ### Overview
 1. Edge Detection
-  * Detect edges along both x and y directions using Sobel operator using own convolution code.
+   * Detect edges along both x and y directions using Sobel operator using own convolution code.
 2. Keypoint Detection
