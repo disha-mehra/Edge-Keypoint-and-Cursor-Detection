@@ -15,3 +15,7 @@ Performing Edge Detection and Keypoint Detection using own convolution code. Per
    
 ### Software Used
 Python
+
+### Visual
+Edge Detection using Sobel Operator
+![Edge Detection](https://github.com/disha-mehra/Edge-Keypoint-and-Cursor-Detection/blob/master/Task_1_images/final_image_edge_detected.JPG)
