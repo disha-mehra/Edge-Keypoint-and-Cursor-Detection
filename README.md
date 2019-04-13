@@ -1,6 +1,9 @@
 # Edge-Keypoint-and-Cursor-Detection
 Performing Edge Detection and Keypoint Detection using own convolution code. Performing Cursor Detection.
 
+**University at Buffalo - CSE573: Computer Vision and Image Processing**
+<p>Project 1</p>
+
 ### Overview
 1. Edge Detection
    * Detect edges along both x and y directions using Sobel operator using own convolution code.
